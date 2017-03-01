@@ -24,7 +24,7 @@
 			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
 			 <Component Id="ProductComponent"> 
 				<!-- TODO: Insert files, registry keys, and other resources here. -->
-         <File Id="hello"  Source="C:\Program Files\Jenkins\workspace\euraka\SetupProject1"/>
+         <File Id="hello"  Source="C:\Program Files\Jenkins\workspace\aloha\WindowsFormsApplication1.sln"/>
 			 </Component> 
 		</ComponentGroup>
 	</Fragment>
